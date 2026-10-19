@@ -105,6 +105,9 @@ The evaluation report will include:
 - **ROC-AUC:** Ability to distinguish between classes across classification thresholds, where applicable.
 
 Training and validation curves will also be used to investigate overfitting and training stability.
+<img width="478" height="547" alt="image" src="https://github.com/user-attachments/assets/5cb7061f-503e-4bf8-be15-78e387e5006d" />
+
+<img width="587" height="448" alt="image" src="https://github.com/user-attachments/assets/6162c757-0c32-4f66-bdd9-c3fbab52cd1e" />
 
 > **Results status:** Previously saved notebook runs reported approximately 95–96% validation accuracy. Those results must not be interpreted as validated performance on the real NIH/NLM dataset unless they are reproduced using the real images and a correctly separated evaluation set. Final metrics will be documented here after that experiment is completed.
 
